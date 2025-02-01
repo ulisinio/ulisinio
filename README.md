@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Ulises
 
-<!--
-**ulisinio/ulisinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+Soy estudiante de **Ingeniería en Sistemas** y me especializo en **Desarrollo Web**.
 
-Here are some ideas to get you started:
+- 💻 Trabajo con **HTML, CSS, JavaScript, Bootstrap y MySQL**.
+- 📱 Tengo experiencia en **diseño responsive** para mejorar la accesibilidad y experiencia de usuario.
+- 🎯 Siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Analytics
+
+#### 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ulisinio&show_icons=true&theme=dark)
+
+#### 🔥 Racha de contribuciones
+![GitHub Streak](https://streak-stats.demolab.com/?user=ulisinio&theme=dark&hide_border=true)
+
+#### 💾 Lenguajes más usados
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisinio&layout=compact&theme=dark)
+
+#### 🏆 Trofeos
+![Trophy](https://github-profile-trophy.vercel.app/?username=ulisinio&theme=darkhub)
