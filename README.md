@@ -12,9 +12,6 @@ Soy estudiante de **Ingeniería en Sistemas** y me especializo en **Desarrollo W
 #### 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ulisinio&show_icons=true&theme=dark)
 
-#### 🔥 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com/?user=ulisinio&theme=dark&hide_border=true)
-
 #### 💾 Lenguajes más usados
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisinio&layout=compact&theme=dark)
 
